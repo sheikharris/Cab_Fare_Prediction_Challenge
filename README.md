@@ -60,7 +60,7 @@ Consists of the testing data required for prediction and consists of 8 attribute
   
 
 
-![App Screenshot]()
+![](https://github.com/sheikharris/Cab_Fare_Prediction_Challenge/blob/main/image/Annotation%202021-09-21%20214309.jpg)
 
 
   
