@@ -63,4 +63,4 @@ Consists of the testing data required for prediction and consists of 8 attribute
 ![](https://github.com/sheikharris/Cab_Fare_Prediction_Challenge/blob/main/image/Annotation%202021-09-21%20214309.jpg)
 
 
-  
+Challenge Link : https://dockship.io/challenges/6006ba605c9276402bd77d96/cab-fare-prediction-ai-challenge/overview  
